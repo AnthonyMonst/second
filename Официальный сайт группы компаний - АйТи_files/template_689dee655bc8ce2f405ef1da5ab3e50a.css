@@ -1,0 +1,39 @@
+
+
+
+/* Start:/bitrix/templates/mainpage/styles.css?1488723054118*/
+div.top-menu ul li a {
+    font: normal 16px Arial, sans-serif;
+    color: #333333;
+ font-weight: 400  !important
+}   
+/* End */
+
+
+
+/* Start:/bitrix/templates/mainpage/template_styles.css?14887230541527*/
+div.actual ul li div.a-top a { padding:0 14px 0 0; background:transparent url('/img/icons.png') no-repeat scroll right -107px;  }
+/*HISTORY*/
+.history{float:left; width:700px; margin-right:18px;}
+	.history-block{width:700px; padding: 0px 0 5px 0px;}
+		.history-block .year{width:100px; height:30px; background-color: #E6E6E6; margin: auto auto; margin-bottom: 5px; font: bold 14px Arial; text-align: center; padding-top: 15px;}
+		.history-block .story{float:left; border: 1px solid gainsboro; width:280px; margin-top: 25px; margin-bottom: 25px; word-wrap: break-word; padding: 20px; font: 12px Arial;}
+			.history-block .story img{margin-bottom: 20px;}
+		.history-block .story-right{float:right; border: 1px solid gainsboro; width:280px; margin-top: 25px; margin-bottom: 25px; word-wrap: break-word; padding: 20px; font: 12px Arial;}
+			.history-block .story-right img{margin-bottom: 20px;}
+		.delimeter{min-height: 20px; background: transparent url('/bitrix/templates/mainpage/img/delim.gif') repeat-y 320px;}
+.special-buttons{position: relative; top:-45px; margin: auto auto; width: 105px;}
+.special-buttons div{float: left; margin: auto auto; margin-left: 10px;}
+div.actual ul li div.a-top a { font:bold 14px Arial, sans-serif; text-transform:uppercase; color:#0091af;  }
+
+div.actual ul li div.a-center ul.blogs li a:hover { color:#0091af; text-decoration:underline; }
+div.actual ul li div.a-center ul li a:hover { color:#0095af; text-decoration:underline; }
+div.actual ul li div.a-center ul.blogs li a.name { color:#0091af; display:inline; }
+
+/**/
+
+
+
+/* End */
+/* /bitrix/templates/mainpage/styles.css?1488723054118 */
+/* /bitrix/templates/mainpage/template_styles.css?14887230541527 */
